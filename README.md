@@ -1,4 +1,4 @@
-ETHIOCHICKEN ANALYTICS
+ETHIOCHICKEN ANALYTICS & SUPPLY CHAIN INTELLIGENCE PLATFORM
 --------------------------------------------------------------------------------
 
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ethio-chicken-analytics-plqeu7jazvsv8hghvcdncg.streamlit.app/)
@@ -54,4 +54,4 @@ RECOMMENDATIONS FOR IMPLEMENTATION
 
 DEVELOPED BY
 --------------------------------------------------------------------------------
-Aklilu Abera | Reporting Analyst
+Aklilu Abera | Data Analyst
