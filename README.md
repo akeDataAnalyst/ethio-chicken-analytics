@@ -1,6 +1,7 @@
-ETHIOCHICKEN ANALYTICS & SUPPLY CHAIN INTELLIGENCE PLATFORM
+ETHIOCHICKEN ANALYTICS
+--------------------------------------------------------------------------------
+
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ethio-chicken-analytics-plqeu7jazvsv8hghvcdncg.streamlit.app/)
-================================================================================
 
 DESCRIPTION
 --------------------------------------------------------------------------------
