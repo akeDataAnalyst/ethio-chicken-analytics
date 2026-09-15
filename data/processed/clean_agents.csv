@@ -1,0 +1,494 @@
+agent_id,region,zone,woreda,agent_tier,experience_months,join_date
+AGT-0002,Sidama,Sidama Zone 2,Wendo Genet,Bronze,7,2025-06-04
+AGT-0003,Oromia,West Shewa,Gindo,Bronze,8,2025-05-05
+AGT-0004,Central Ethiopia,Gurage,Enemor,New,45,2022-04-21
+AGT-0005,Oromia,Jimma,Jimma Town,Silver,28,2023-09-13
+AGT-0006,South Ethiopia,Gamo,Arba Minch,Gold,68,2020-05-31
+AGT-0007,Central Ethiopia,Gurage,Welkite,Gold,65,2020-08-29
+AGT-0008,Sidama,Sidama Zone 2,Wendo Genet,Bronze,10,2025-03-06
+AGT-0009,Tigray,Southern Tigray,Unknown,Silver,21,2024-04-10
+AGT-0010,Tigray,Southern Tigray,Korem,Silver,17,2024-08-08
+AGT-0011,Oromia,West Shewa,Ambo,Silver,28,2023-09-13
+AGT-0012,Amhara,North Shewa,Ataye,Silver,21,2024-04-10
+AGT-0013,Central Ethiopia,Hadiya,Gombora,New,2,2025-11-01
+AGT-0014,Central Ethiopia,Silte,Tora,Silver,13,2024-12-06
+AGT-0015,Central Ethiopia,Gurage,Welkite,Bronze,11,2025-02-04
+AGT-0016,Central Ethiopia,Gurage,Welkite,Silver,30,2023-07-15
+AGT-0017,Central Ethiopia,Gurage,Enemor,New,2,2025-11-01
+AGT-0018,Sidama,Sidama Zone 2,Aleta Wendo,Gold,39,2022-10-18
+AGT-0019,Central Ethiopia,Hadiya,Shone,Silver,24,2024-01-11
+AGT-0020,Tigray,Central Tigray,Axum,Gold,62,2020-11-27
+AGT-0021,Central Ethiopia,Hadiya,Gombora,Bronze,10,2025-03-06
+AGT-0022,Oromia,Jimma,Jimma Town,Bronze,4,2025-09-02
+AGT-0023,Oromia,Jimma,Agaro,Gold,68,2020-05-31
+AGT-0024,Amhara,South Gondar,Nefas Mewcha,Silver,12,2025-01-05
+AGT-0025,Amhara,North Shewa,Aliu Amba,Silver,24,2024-01-11
+AGT-0026,Tigray,Southern Tigray,Alamata,Bronze,9,2025-04-05
+AGT-0027,Oromia,West Shewa,Holeta,Bronze,4,2025-09-02
+AGT-0028,Sidama,Sidama Zone 1,Yirgalem,Bronze,8,2025-05-05
+AGT-0029,Central Ethiopia,Gurage,Butajira,Silver,29,2023-08-14
+AGT-0030,South Ethiopia,Gamo,Unknown,Bronze,11,2025-02-04
+AGT-0031,South Ethiopia,Gamo,Selamber,Gold,59,2021-02-25
+AGT-0032,Central Ethiopia,Gurage,Butajira,Bronze,4,2025-09-02
+AGT-0033,Sidama,Sidama Zone 1,Hawassa Zuria,Silver,32,2023-05-16
+AGT-0034,South Ethiopia,Gofa,Mucho,Bronze,4,2025-09-02
+AGT-0035,Amhara,West Gojjam,Bahir Dar,Silver,31,2023-06-15
+AGT-0036,Tigray,Central Tigray,Abiy Addi,New,2,2025-11-01
+AGT-0037,Oromia,East Shewa,Adama,Gold,70,2020-04-01
+AGT-0038,Sidama,Sidama Zone 2,Bansa,Bronze,10,2025-03-06
+AGT-0039,Tigray,Southern Tigray,Mekelle Zuria,Silver,34,2023-03-17
+AGT-0040,Sidama,Sidama Zone 1,Hawassa Zuria,Gold,37,2022-12-17
+AGT-0041,Tigray,Central Tigray,Axum,Gold,52,2021-09-23
+AGT-0042,Central Ethiopia,Gurage,Butajira,Silver,30,2023-07-15
+AGT-0043,South Ethiopia,Gofa,Bulki,Silver,26,2023-11-12
+AGT-0044,Tigray,Central Tigray,Abiy Addi,Bronze,10,2025-03-06
+AGT-0045,Central Ethiopia,Gurage,Enemor,Bronze,8,2025-05-05
+AGT-0046,Tigray,Southern Tigray,Korem,Gold,48,2022-01-21
+AGT-0047,Sidama,Sidama Zone 1,Hawassa Zuria,Gold,61,2020-12-27
+AGT-0048,Amhara,North Shewa,Ataye,Bronze,8,2025-05-05
+AGT-0049,Central Ethiopia,Hadiya,Gombora,Silver,26,2023-11-12
+AGT-0050,Amhara,West Gojjam,Finote Selam,Bronze,11,2025-02-04
+AGT-0051,Tigray,Central Tigray,Adwa,Silver,30,2023-07-15
+AGT-0052,Sidama,Unknown,Hawassa Zuria,New,3,2025-10-02
+AGT-0053,Oromia,Jimma,Gomma,Gold,57,2021-04-26
+AGT-0054,South Ethiopia,Gofa,Sawla,New,1,2025-12-01
+AGT-0055,Sidama,Sidama Zone 1,Yirgalem,Silver,30,2023-07-15
+AGT-0056,Central Ethiopia,Silte,Tora,Silver,31,2023-06-15
+AGT-0057,Central Ethiopia,Gurage,Unknown,Bronze,11,2025-02-04
+AGT-0058,South Ethiopia,Gamo,Arba Minch,Gold,60,2021-01-26
+AGT-0059,Amhara,West Gojjam,Unknown,Bronze,5,2025-08-03
+AGT-0060,Central Ethiopia,Hadiya,Gombora,Silver,20,2024-05-10
+AGT-0061,Amhara,North Shewa,Aliu Amba,Bronze,11,2025-02-04
+AGT-0062,Sidama,Sidama Zone 2,Wendo Genet,Silver,21,2024-04-10
+AGT-0063,Central Ethiopia,Hadiya,Hosaena,Silver,23,2024-02-10
+AGT-0064,Oromia,West Shewa,Holeta,Bronze,5,2025-08-03
+AGT-0065,Tigray,Central Tigray,Adwa,Silver,17,2024-08-08
+AGT-0066,Tigray,Southern Tigray,Mekelle Zuria,Bronze,8,2025-05-05
+AGT-0067,Amhara,North Shewa,Aliu Amba,Bronze,10,2025-03-06
+AGT-0068,Amhara,Awi,Injibara,Silver,12,2025-01-05
+AGT-0069,Sidama,Sidama Zone 1,Yirgalem,Silver,16,2024-09-07
+AGT-0070,Tigray,Southern Tigray,Korem,New,1,2025-12-01
+AGT-0071,Amhara,North Shewa,Debre Berhan,Bronze,11,2025-02-04
+AGT-0072,South Ethiopia,Gofa,Unknown,Bronze,11,2025-02-04
+AGT-0073,Central Ethiopia,Silte,Unknown,Gold,48,2022-01-21
+AGT-0075,Sidama,Sidama Zone 1,Yirgalem,Gold,49,2021-12-22
+AGT-0076,South Ethiopia,Gofa,Mucho,Bronze,5,2025-08-03
+AGT-0077,Sidama,Sidama Zone 1,Yirgalem,Silver,15,2024-10-07
+AGT-0078,Central Ethiopia,Gurage,Butajira,Gold,60,2021-01-26
+AGT-0079,Central Ethiopia,Gurage,Butajira,Silver,16,2024-09-07
+AGT-0080,Sidama,Sidama Zone 2,Wendo Genet,Bronze,4,2025-09-02
+AGT-0081,Tigray,Southern Tigray,Alamata,Bronze,6,2025-07-04
+AGT-0082,Central Ethiopia,Hadiya,Hosaena,Gold,60,2021-01-26
+AGT-0083,Central Ethiopia,Hadiya,Gombora,Bronze,10,2025-03-06
+AGT-0084,Amhara,West Gojjam,Unknown,Silver,31,2023-06-15
+AGT-0085,Central Ethiopia,Silte,Kibet,Bronze,9,2025-04-05
+AGT-0086,South Ethiopia,Gamo,Chencha,New,1,2025-12-01
+AGT-0087,Amhara,Awi,Kinjiba,Gold,43,2022-06-20
+AGT-0088,Oromia,Arsi,Dodola,New,3,2025-10-02
+AGT-0089,Central Ethiopia,Hadiya,Gombora,Silver,20,2024-05-10
+AGT-0090,Amhara,North Shewa,Aliu Amba,Bronze,10,2025-03-06
+AGT-0091,South Ethiopia,Gofa,Sawla,New,2,2025-11-01
+AGT-0092,Central Ethiopia,Gurage,Butajira,Silver,13,2024-12-06
+AGT-0093,Amhara,West Gojjam,Dangla,New,3,2025-10-02
+AGT-0094,Sidama,Sidama Zone 2,Wendo Genet,Silver,28,2023-09-13
+AGT-0095,South Ethiopia,Wolayta,Boditi,Bronze,10,2025-03-06
+AGT-0096,Tigray,Central Tigray,Abiy Addi,Silver,25,2023-12-12
+AGT-0097,Tigray,Central Tigray,Axum,Silver,23,2024-02-10
+AGT-0098,Oromia,Jimma,Agaro,Silver,120,2016-02-22
+AGT-0099,Amhara,West Gojjam,Bahir Dar,Bronze,6,2025-07-04
+AGT-0100,Amhara,North Shewa,Aliu Amba,Bronze,4,2025-09-02
+AGT-0101,Amhara,West Gojjam,Bahir Dar,Silver,23,2024-02-10
+AGT-0102,Oromia,West Shewa,Holeta,Bronze,6,2025-07-04
+AGT-0103,Sidama,Sidama Zone 1,Hawassa Zuria,Bronze,9,2025-04-05
+AGT-0104,Amhara,South Gondar,Nefas Mewcha,New,3,2025-10-02
+AGT-0105,South Ethiopia,Wolayta,Boditi,New,2,2025-11-01
+AGT-0106,Sidama,Sidama Zone 2,Bansa,Bronze,4,2025-09-02
+AGT-0107,Amhara,North Shewa,Debre Berhan,Bronze,8,2025-05-05
+AGT-0108,Oromia,West Shewa,Ambo,New,2,2025-11-01
+AGT-0109,Amhara,Awi,Injibara,Silver,15,2024-10-07
+AGT-0110,Oromia,Arsi,Bekoji,New,3,2025-10-02
+AGT-0111,Sidama,Sidama Zone 1,Yirgalem,Bronze,11,2025-02-04
+AGT-0112,Oromia,East Shewa,Bishoftu,Silver,29,2023-08-14
+AGT-0113,Sidama,Sidama Zone 2,Bansa,Bronze,6,2025-07-04
+AGT-0114,Amhara,West Gojjam,Dangla,Bronze,9,2025-04-05
+AGT-0115,Tigray,Southern Tigray,Mekelle Zuria,Bronze,6,2025-07-04
+AGT-0116,South Ethiopia,Wolayta,Soddo,Gold,43,2022-06-20
+AGT-0117,Oromia,West Shewa,Gindo,Gold,66,2020-07-30
+AGT-0118,Sidama,Sidama Zone 1,Hawassa Zuria,Bronze,11,2025-02-04
+AGT-0119,Sidama,Sidama Zone 1,Yirgalem,Silver,19,2024-06-09
+AGT-0120,Central Ethiopia,Hadiya,Hosaena,New,3,2025-10-02
+AGT-0121,Tigray,Southern Tigray,Korem,Silver,17,2024-08-08
+AGT-0122,South Ethiopia,Unknown,Chencha,New,1,2025-12-01
+AGT-0123,Oromia,Arsi,Bekoji,Bronze,7,2025-06-04
+AGT-0124,Central Ethiopia,Hadiya,Shone,Silver,19,2024-06-09
+AGT-0125,Amhara,Awi,Kinjiba,Gold,51,2021-10-23
+AGT-0126,Tigray,Southern Tigray,Mekelle Zuria,New,2,2025-11-01
+AGT-0127,South Ethiopia,Gamo,Selamber,New,2,2025-11-01
+AGT-0128,Central Ethiopia,Hadiya,Hosaena,Silver,26,2023-11-12
+AGT-0129,South Ethiopia,Gofa,Mucho,Silver,27,2023-10-13
+AGT-0130,Tigray,Southern Tigray,Korem,Bronze,7,2025-06-04
+AGT-0131,Tigray,Southern Tigray,Mekelle Zuria,Gold,50,2021-11-22
+AGT-0132,Tigray,Southern Tigray,Mekelle Zuria,Bronze,5,2025-08-03
+AGT-0133,South Ethiopia,Gofa,Mucho,Bronze,5,2025-08-03
+AGT-0134,Central Ethiopia,Gurage,Butajira,Silver,28,2023-09-13
+AGT-0135,Sidama,Sidama Zone 2,Aleta Wendo,Gold,64,2020-09-28
+AGT-0136,Amhara,Awi,Kinjiba,Bronze,7,2025-06-04
+AGT-0137,Sidama,Sidama Zone 1,Yirgalem,Silver,33,2023-04-16
+AGT-0138,Amhara,North Shewa,Ataye,Gold,60,2021-01-26
+AGT-0139,Sidama,Sidama Zone 1,Hawassa Zuria,Silver,21,2024-04-10
+AGT-0140,Oromia,East Shewa,Bishoftu,Bronze,4,2025-09-02
+AGT-0141,Tigray,Southern Tigray,Korem,New,2,2025-11-01
+AGT-0142,Tigray,Southern Tigray,Alamata,Bronze,10,2025-03-06
+AGT-0143,Tigray,Southern Tigray,Korem,Gold,58,2021-03-27
+AGT-0144,Sidama,Sidama Zone 2,Wendo Genet,Silver,29,2023-08-14
+AGT-0145,Tigray,Central Tigray,Adwa,Silver,23,2024-02-10
+AGT-0146,Central Ethiopia,Silte,Kibet,Gold,54,2021-07-25
+AGT-0148,Central Ethiopia,Hadiya,Shone,Bronze,9,2025-04-05
+AGT-0149,Tigray,Central Tigray,Abiy Addi,Gold,51,2021-10-23
+AGT-0150,South Ethiopia,Wolayta,Boditi,Bronze,9,2025-04-05
+AGT-0151,Oromia,West Shewa,Holeta,New,2,2025-11-01
+AGT-0152,Tigray,Central Tigray,Axum,Bronze,8,2025-05-05
+AGT-0153,Amhara,West Gojjam,Dangla,Bronze,9,2025-04-05
+AGT-0154,South Ethiopia,Wolayta,Areka,Bronze,5,2025-08-03
+AGT-0155,Oromia,Arsi,Bekoji,Silver,14,2024-11-06
+AGT-0156,South Ethiopia,Gofa,Sawla,Bronze,8,2025-05-05
+AGT-0157,Central Ethiopia,Gurage,Welkite,Silver,27,2023-10-13
+AGT-0158,Amhara,South Gondar,Debre Tabor,Silver,20,2024-05-10
+AGT-0159,Sidama,Sidama Zone 1,Hawassa Zuria,Silver,34,2023-03-17
+AGT-0160,Sidama,Sidama Zone 2,Bansa,Bronze,9,2025-04-05
+AGT-0161,Tigray,Southern Tigray,Alamata,Gold,49,2021-12-22
+AGT-0162,Amhara,North Shewa,Debre Berhan,Bronze,8,2025-05-05
+AGT-0163,Tigray,Central Tigray,Axum,New,2,2025-11-01
+AGT-0164,Central Ethiopia,Gurage,Enemor,Gold,61,2020-12-27
+AGT-0165,Central Ethiopia,Silte,Kibet,Gold,47,2022-02-20
+AGT-0166,Tigray,Central Tigray,Axum,Silver,26,2023-11-12
+AGT-0167,Tigray,Southern Tigray,Mekelle Zuria,Bronze,4,2025-09-02
+AGT-0168,South Ethiopia,Wolayta,Soddo,Gold,71,2020-03-02
+AGT-0169,South Ethiopia,Wolayta,Boditi,Silver,25,2023-12-12
+AGT-0170,South Ethiopia,Wolayta,Soddo,Bronze,10,2025-03-06
+AGT-0171,Central Ethiopia,Hadiya,Shone,Silver,16,2024-09-07
+AGT-0172,South Ethiopia,Wolayta,Boditi,Silver,13,2024-12-06
+AGT-0173,Sidama,Sidama Zone 2,Wendo Genet,Silver,34,2023-03-17
+AGT-0174,Tigray,Southern Tigray,Korem,Silver,26,2023-11-12
+AGT-0175,Central Ethiopia,Gurage,Butajira,New,1,2025-12-01
+AGT-0176,Sidama,Sidama Zone 2,Bansa,Bronze,8,2025-05-05
+AGT-0177,South Ethiopia,Gamo,Arba Minch,New,3,2025-10-02
+AGT-0178,Central Ethiopia,Hadiya,Hosaena,New,1,2025-12-01
+AGT-0179,Amhara,Awi,Injibara,Bronze,11,2025-02-04
+AGT-0180,Central Ethiopia,Hadiya,Gombora,Bronze,7,2025-06-04
+AGT-0181,South Ethiopia,Gofa,Sawla,New,1,2025-12-01
+AGT-0182,Amhara,Awi,Kinjiba,Gold,46,2022-03-22
+AGT-0183,Amhara,South Gondar,Woreta,Bronze,5,2025-08-03
+AGT-0184,Tigray,Central Tigray,Adwa,Gold,45,2022-04-21
+AGT-0185,Sidama,Sidama Zone 2,Aleta Wendo,Bronze,10,2025-03-06
+AGT-0186,Tigray,Southern Tigray,Korem,Gold,51,2021-10-23
+AGT-0187,Amhara,West Gojjam,Finote Selam,Gold,67,2020-06-30
+AGT-0188,South Ethiopia,Gamo,Arba Minch,Bronze,7,2025-06-04
+AGT-0189,Oromia,Unknown,Mojo,New,1,2025-12-01
+AGT-0190,Tigray,Central Tigray,Adwa,Bronze,9,2025-04-05
+AGT-0191,Tigray,Central Tigray,Axum,Bronze,7,2025-06-04
+AGT-0192,Sidama,Sidama Zone 2,Aleta Wendo,Silver,24,2024-01-11
+AGT-0193,Central Ethiopia,Silte,Worabe,Silver,16,2024-09-07
+AGT-0194,Tigray,Southern Tigray,Alamata,Gold,47,2022-02-20
+AGT-0195,Tigray,Southern Tigray,Alamata,Gold,120,2016-02-22
+AGT-0196,Tigray,Southern Tigray,Korem,Silver,31,2023-06-15
+AGT-0197,Tigray,Southern Tigray,Alamata,Gold,66,2020-07-30
+AGT-0198,Tigray,Central Tigray,Axum,Bronze,11,2025-02-04
+AGT-0199,Sidama,Sidama Zone 1,Hawassa Zuria,Gold,60,2021-01-26
+AGT-0200,Sidama,Sidama Zone 2,Bansa,Silver,34,2023-03-17
+AGT-0201,Central Ethiopia,Silte,Kibet,New,2,2025-11-01
+AGT-0202,Tigray,Southern Tigray,Mekelle Zuria,Silver,32,2023-05-16
+AGT-0203,Sidama,Sidama Zone 2,Wendo Genet,Bronze,11,2025-02-04
+AGT-0204,Central Ethiopia,Hadiya,Gombora,Gold,55,2021-06-25
+AGT-0205,South Ethiopia,Gofa,Unknown,New,3,2025-10-02
+AGT-0206,Tigray,Central Tigray,Abiy Addi,Bronze,9,2025-04-05
+AGT-0207,Amhara,North Shewa,Ataye,Silver,24,2024-01-11
+AGT-0208,Central Ethiopia,Silte,Kibet,Bronze,10,2025-03-06
+AGT-0209,Amhara,South Gondar,Woreta,Silver,17,2024-08-08
+AGT-0210,Amhara,Awi,Kinjiba,Gold,42,2022-07-20
+AGT-0211,Oromia,West Shewa,Unknown,Silver,30,2023-07-15
+AGT-0212,Oromia,East Shewa,Bishoftu,Silver,31,2023-06-15
+AGT-0213,Oromia,West Shewa,Holeta,Silver,20,2024-05-10
+AGT-0214,South Ethiopia,Gofa,Mucho,Silver,33,2023-04-16
+AGT-0215,Tigray,Central Tigray,Abiy Addi,Bronze,4,2025-09-02
+AGT-0216,South Ethiopia,Wolayta,Soddo,Gold,60,2021-01-26
+AGT-0217,Sidama,Sidama Zone 2,Wendo Genet,Bronze,9,2025-04-05
+AGT-0218,Tigray,Southern Tigray,Korem,Silver,21,2024-04-10
+AGT-0219,Sidama,Sidama Zone 2,Wendo Genet,New,1,2025-12-01
+AGT-0221,Oromia,Arsi,Dodola,Silver,31,2023-06-15
+AGT-0222,Tigray,Southern Tigray,Korem,Silver,27,2023-10-13
+AGT-0223,South Ethiopia,Wolayta,Soddo,Bronze,9,2025-04-05
+AGT-0224,South Ethiopia,Gamo,Chencha,Silver,13,2024-12-06
+AGT-0225,Amhara,North Shewa,Aliu Amba,Bronze,10,2025-03-06
+AGT-0226,Sidama,Sidama Zone 2,Wendo Genet,Bronze,11,2025-02-04
+AGT-0227,Tigray,Southern Tigray,Korem,Bronze,4,2025-09-02
+AGT-0228,Tigray,Southern Tigray,Alamata,New,3,2025-10-02
+AGT-0229,Sidama,Sidama Zone 1,Yirgalem,Bronze,8,2025-05-05
+AGT-0230,Central Ethiopia,Gurage,Butajira,Silver,12,2025-01-05
+AGT-0231,Central Ethiopia,Silte,Tora,Silver,13,2024-12-06
+AGT-0232,South Ethiopia,Gofa,Bulki,Silver,34,2023-03-17
+AGT-0233,Tigray,Unknown,Alamata,Bronze,4,2025-09-02
+AGT-0234,Sidama,Sidama Zone 1,Hawassa Zuria,Bronze,11,2025-02-04
+AGT-0235,Amhara,North Shewa,Aliu Amba,Gold,45,2022-04-21
+AGT-0236,Tigray,Central Tigray,Abiy Addi,New,3,2025-10-02
+AGT-0237,South Ethiopia,Gofa,Mucho,Gold,43,2022-06-20
+AGT-0238,Oromia,East Shewa,Adama,Gold,50,2021-11-22
+AGT-0239,Tigray,Central Tigray,Adwa,Bronze,4,2025-09-02
+AGT-0240,Oromia,East Shewa,Bishoftu,Bronze,9,2025-04-05
+AGT-0241,Central Ethiopia,Gurage,Enemor,Bronze,4,2025-09-02
+AGT-0242,Tigray,Central Tigray,Axum,Bronze,10,2025-03-06
+AGT-0243,Central Ethiopia,Silte,Unknown,Silver,31,2023-06-15
+AGT-0244,Oromia,West Shewa,Gindo,Bronze,11,2025-02-04
+AGT-0245,Sidama,Sidama Zone 1,Yirgalem,Silver,26,2023-11-12
+AGT-0246,Sidama,Sidama Zone 2,Bansa,New,45,2022-04-21
+AGT-0247,Central Ethiopia,Silte,Kibet,Silver,25,2023-12-12
+AGT-0248,Oromia,Jimma,Agaro,Bronze,11,2025-02-04
+AGT-0249,South Ethiopia,Gofa,Sawla,Bronze,6,2025-07-04
+AGT-0250,Sidama,Sidama Zone 2,Bansa,Gold,70,2020-04-01
+AGT-0251,Tigray,Southern Tigray,Korem,Gold,63,2020-10-28
+AGT-0252,Tigray,Central Tigray,Abiy Addi,New,1,2025-12-01
+AGT-0253,Central Ethiopia,Silte,Kibet,Bronze,11,2025-02-04
+AGT-0254,Oromia,Jimma,Agaro,Silver,23,2024-02-10
+AGT-0255,Central Ethiopia,Gurage,Enemor,Bronze,7,2025-06-04
+AGT-0256,Sidama,Sidama Zone 1,Hawassa Zuria,Bronze,5,2025-08-03
+AGT-0257,Oromia,West Shewa,Ambo,Gold,63,2020-10-28
+AGT-0258,Amhara,Unknown,Debre Berhan,Silver,17,2024-08-08
+AGT-0259,Central Ethiopia,Silte,Worabe,Silver,35,2023-02-15
+AGT-0260,South Ethiopia,Wolayta,Unknown,Silver,12,2025-01-05
+AGT-0261,South Ethiopia,Gamo,Selamber,Bronze,11,2025-02-04
+AGT-0262,Central Ethiopia,Hadiya,Shone,New,3,2025-10-02
+AGT-0263,Amhara,West Gojjam,Bahir Dar,Bronze,5,2025-08-03
+AGT-0264,Central Ethiopia,Silte,Unknown,Silver,31,2023-06-15
+AGT-0265,Sidama,Sidama Zone 1,Hawassa Zuria,Gold,44,2022-05-21
+AGT-0266,Oromia,East Shewa,Adama,Silver,31,2023-06-15
+AGT-0267,Sidama,Sidama Zone 1,Yirgalem,New,3,2025-10-02
+AGT-0268,Tigray,Central Tigray,Adwa,Gold,46,2022-03-22
+AGT-0269,Sidama,Sidama Zone 2,Aleta Wendo,Bronze,5,2025-08-03
+AGT-0270,Amhara,Awi,Kinjiba,Bronze,11,2025-02-04
+AGT-0271,Tigray,Central Tigray,Abiy Addi,New,3,2025-10-02
+AGT-0272,Oromia,East Shewa,Bishoftu,Bronze,5,2025-08-03
+AGT-0273,Central Ethiopia,Gurage,Enemor,Bronze,11,2025-02-04
+AGT-0274,South Ethiopia,Gofa,Bulki,Silver,27,2023-10-13
+AGT-0275,Oromia,Jimma,Agaro,Gold,54,2021-07-25
+AGT-0276,Central Ethiopia,Hadiya,Hosaena,New,3,2025-10-02
+AGT-0277,South Ethiopia,Gofa,Bulki,Bronze,8,2025-05-05
+AGT-0278,Amhara,South Gondar,Woreta,New,1,2025-12-01
+AGT-0279,Central Ethiopia,Gurage,Enemor,Gold,69,2020-05-01
+AGT-0280,Sidama,Sidama Zone 2,Bansa,New,3,2025-10-02
+AGT-0281,South Ethiopia,Gamo,Selamber,Bronze,8,2025-05-05
+AGT-0282,Tigray,Central Tigray,Abiy Addi,New,3,2025-10-02
+AGT-0283,Tigray,Southern Tigray,Alamata,Silver,22,2024-03-11
+AGT-0284,South Ethiopia,Wolayta,Soddo,Silver,28,2023-09-13
+AGT-0285,Central Ethiopia,Silte,Tora,Silver,25,2023-12-12
+AGT-0286,Oromia,Arsi,Dodola,Bronze,9,2025-04-05
+AGT-0287,Tigray,Southern Tigray,Alamata,New,3,2025-10-02
+AGT-0288,Oromia,Arsi,Bekoji,New,2,2025-11-01
+AGT-0289,Oromia,West Shewa,Holeta,New,1,2025-12-01
+AGT-0290,Central Ethiopia,Gurage,Butajira,Gold,49,2021-12-22
+AGT-0291,South Ethiopia,Wolayta,Soddo,Bronze,6,2025-07-04
+AGT-0292,Oromia,Jimma,Gomma,New,120,2016-02-22
+AGT-0294,Oromia,East Shewa,Bishoftu,Gold,71,2020-03-02
+AGT-0295,Amhara,North Shewa,Ataye,New,3,2025-10-02
+AGT-0296,South Ethiopia,Wolayta,Boditi,Gold,67,2020-06-30
+AGT-0297,South Ethiopia,Gamo,Chencha,Silver,34,2023-03-17
+AGT-0298,Oromia,West Shewa,Gindo,Silver,16,2024-09-07
+AGT-0299,Oromia,Jimma,Gomma,Gold,69,2020-05-01
+AGT-0300,Amhara,Awi,Chagni,Silver,12,2025-01-05
+AGT-0301,Amhara,South Gondar,Woreta,New,2,2025-11-01
+AGT-0302,South Ethiopia,Gofa,Bulki,New,1,2025-12-01
+AGT-0303,Central Ethiopia,Gurage,Enemor,Gold,70,2020-04-01
+AGT-0304,Central Ethiopia,Gurage,Welkite,Bronze,5,2025-08-03
+AGT-0305,Amhara,West Gojjam,Finote Selam,Silver,26,2023-11-12
+AGT-0306,Central Ethiopia,Hadiya,Shone,New,1,2025-12-01
+AGT-0307,Central Ethiopia,Hadiya,Gombora,Bronze,11,2025-02-04
+AGT-0308,Amhara,West Gojjam,Finote Selam,Bronze,4,2025-09-02
+AGT-0309,South Ethiopia,Wolayta,Areka,Bronze,5,2025-08-03
+AGT-0310,Tigray,Central Tigray,Abiy Addi,Bronze,5,2025-08-03
+AGT-0311,Sidama,Sidama Zone 2,Wendo Genet,Bronze,4,2025-09-02
+AGT-0312,Sidama,Sidama Zone 2,Wendo Genet,Bronze,9,2025-04-05
+AGT-0313,Amhara,North Shewa,Aliu Amba,Silver,26,2023-11-12
+AGT-0314,Central Ethiopia,Hadiya,Hosaena,Gold,68,2020-05-31
+AGT-0315,Tigray,Southern Tigray,Korem,Bronze,6,2025-07-04
+AGT-0316,Oromia,Jimma,Agaro,Bronze,10,2025-03-06
+AGT-0317,Oromia,Arsi,Bekoji,Silver,18,2024-07-09
+AGT-0318,Sidama,Sidama Zone 2,Aleta Wendo,Silver,30,2023-07-15
+AGT-0319,South Ethiopia,Wolayta,Areka,Bronze,7,2025-06-04
+AGT-0320,Amhara,North Shewa,Ataye,New,3,2025-10-02
+AGT-0321,Amhara,South Gondar,Debre Tabor,Bronze,6,2025-07-04
+AGT-0322,Tigray,Central Tigray,Adwa,Gold,37,2022-12-17
+AGT-0323,Oromia,East Shewa,Adama,Bronze,9,2025-04-05
+AGT-0324,Sidama,Sidama Zone 2,Bansa,Silver,21,2024-04-10
+AGT-0325,South Ethiopia,Wolayta,Soddo,Silver,20,2024-05-10
+AGT-0326,South Ethiopia,Gamo,Selamber,Bronze,11,2025-02-04
+AGT-0327,Sidama,Sidama Zone 1,Hawassa Zuria,Silver,16,2024-09-07
+AGT-0328,Amhara,South Gondar,Woreta,New,1,2025-12-01
+AGT-0329,Central Ethiopia,Hadiya,Hosaena,Silver,35,2023-02-15
+AGT-0330,Amhara,Awi,Injibara,Bronze,9,2025-04-05
+AGT-0331,Sidama,Sidama Zone 2,Wendo Genet,Silver,21,2024-04-10
+AGT-0332,Sidama,Sidama Zone 1,Yirgalem,Bronze,7,2025-06-04
+AGT-0333,Central Ethiopia,Gurage,Butajira,Bronze,4,2025-09-02
+AGT-0334,Central Ethiopia,Hadiya,Shone,New,2,2025-11-01
+AGT-0335,Oromia,Arsi,Unknown,Silver,32,2023-05-16
+AGT-0336,Amhara,North Shewa,Debre Berhan,Bronze,9,2025-04-05
+AGT-0337,South Ethiopia,Gofa,Bulki,Bronze,7,2025-06-04
+AGT-0338,Tigray,Central Tigray,Abiy Addi,Silver,25,2023-12-12
+AGT-0339,Tigray,Central Tigray,Abiy Addi,Bronze,8,2025-05-05
+AGT-0340,Central Ethiopia,Gurage,Enemor,New,3,2025-10-02
+AGT-0341,Central Ethiopia,Gurage,Welkite,Bronze,8,2025-05-05
+AGT-0342,Tigray,Southern Tigray,Korem,Gold,56,2021-05-26
+AGT-0343,Amhara,North Shewa,Aliu Amba,New,2,2025-11-01
+AGT-0344,Oromia,East Shewa,Adama,Bronze,10,2025-03-06
+AGT-0345,South Ethiopia,Gamo,Arba Minch,Bronze,8,2025-05-05
+AGT-0346,Sidama,Sidama Zone 1,Yirgalem,Gold,45,2022-04-21
+AGT-0347,Central Ethiopia,Silte,Kibet,Gold,47,2022-02-20
+AGT-0348,Central Ethiopia,Hadiya,Shone,Bronze,11,2025-02-04
+AGT-0349,South Ethiopia,Wolayta,Boditi,New,2,2025-11-01
+AGT-0350,South Ethiopia,Gofa,Mucho,Silver,17,2024-08-08
+AGT-0351,Tigray,Central Tigray,Axum,New,45,2022-04-21
+AGT-0352,Central Ethiopia,Gurage,Welkite,Bronze,8,2025-05-05
+AGT-0353,Oromia,Arsi,Asella,Silver,23,2024-02-10
+AGT-0354,Tigray,Southern Tigray,Korem,Gold,61,2020-12-27
+AGT-0355,Oromia,Jimma,Jimma Town,Bronze,10,2025-03-06
+AGT-0356,Amhara,South Gondar,Nefas Mewcha,New,2,2025-11-01
+AGT-0357,Sidama,Sidama Zone 2,Aleta Wendo,Gold,46,2022-03-22
+AGT-0358,Oromia,Arsi,Asella,Silver,30,2023-07-15
+AGT-0359,Amhara,South Gondar,Debre Tabor,Gold,69,2020-05-01
+AGT-0360,Oromia,West Shewa,Gindo,Gold,54,2021-07-25
+AGT-0361,Central Ethiopia,Unknown,Butajira,Bronze,5,2025-08-03
+AGT-0362,Sidama,Sidama Zone 1,Yirgalem,Bronze,10,2025-03-06
+AGT-0363,South Ethiopia,Gofa,Bulki,Bronze,11,2025-02-04
+AGT-0364,Central Ethiopia,Gurage,Welkite,Silver,25,2023-12-12
+AGT-0365,South Ethiopia,Gofa,Mucho,Bronze,7,2025-06-04
+AGT-0367,Sidama,Sidama Zone 1,Hawassa Zuria,Bronze,8,2025-05-05
+AGT-0368,Sidama,Unknown,Yirgalem,Bronze,10,2025-03-06
+AGT-0369,South Ethiopia,Gamo,Arba Minch,Silver,12,2025-01-05
+AGT-0370,Tigray,Central Tigray,Axum,Bronze,6,2025-07-04
+AGT-0371,Sidama,Sidama Zone 1,Yirgalem,Silver,25,2023-12-12
+AGT-0372,Sidama,Sidama Zone 1,Hawassa Zuria,Bronze,11,2025-02-04
+AGT-0373,Central Ethiopia,Hadiya,Gombora,Bronze,8,2025-05-05
+AGT-0374,Amhara,Awi,Kinjiba,Bronze,11,2025-02-04
+AGT-0375,Amhara,North Shewa,Debre Berhan,New,3,2025-10-02
+AGT-0376,Amhara,Awi,Injibara,Bronze,8,2025-05-05
+AGT-0377,South Ethiopia,Wolayta,Boditi,Silver,18,2024-07-09
+AGT-0378,Central Ethiopia,Silte,Kibet,Bronze,9,2025-04-05
+AGT-0379,Tigray,Southern Tigray,Korem,Gold,44,2022-05-21
+AGT-0380,Oromia,Jimma,Gomma,Gold,66,2020-07-30
+AGT-0381,Central Ethiopia,Gurage,Enemor,New,1,2025-12-01
+AGT-0382,South Ethiopia,Gamo,Chencha,New,2,2025-11-01
+AGT-0383,South Ethiopia,Wolayta,Areka,Gold,39,2022-10-18
+AGT-0384,Tigray,Southern Tigray,Alamata,Bronze,11,2025-02-04
+AGT-0385,Amhara,North Shewa,Ataye,Bronze,9,2025-04-05
+AGT-0386,South Ethiopia,Gofa,Sawla,Silver,23,2024-02-10
+AGT-0387,Amhara,South Gondar,Woreta,Silver,18,2024-07-09
+AGT-0388,Tigray,Southern Tigray,Alamata,Bronze,4,2025-09-02
+AGT-0389,Sidama,Sidama Zone 2,Unknown,Gold,120,2016-02-22
+AGT-0390,Tigray,Southern Tigray,Unknown,New,3,2025-10-02
+AGT-0391,Tigray,Central Tigray,Adwa,Bronze,6,2025-07-04
+AGT-0392,Amhara,West Gojjam,Bahir Dar,Bronze,6,2025-07-04
+AGT-0393,Tigray,Southern Tigray,Korem,Silver,16,2024-09-07
+AGT-0394,Tigray,Southern Tigray,Mekelle Zuria,Bronze,4,2025-09-02
+AGT-0395,Sidama,Sidama Zone 1,Hawassa Zuria,Silver,24,2024-01-11
+AGT-0396,South Ethiopia,Wolayta,Boditi,Silver,34,2023-03-17
+AGT-0397,Sidama,Sidama Zone 1,Hawassa Zuria,New,45,2022-04-21
+AGT-0398,Tigray,Unknown,Korem,New,1,2025-12-01
+AGT-0399,Tigray,Central Tigray,Abiy Addi,Bronze,10,2025-03-06
+AGT-0400,Oromia,Arsi,Asella,Gold,60,2021-01-26
+AGT-0401,Sidama,Sidama Zone 1,Yirgalem,Bronze,9,2025-04-05
+AGT-0402,Central Ethiopia,Gurage,Welkite,New,3,2025-10-02
+AGT-0403,South Ethiopia,Wolayta,Areka,Gold,70,2020-04-01
+AGT-0404,South Ethiopia,Wolayta,Soddo,Silver,12,2025-01-05
+AGT-0405,Tigray,Southern Tigray,Korem,Silver,25,2023-12-12
+AGT-0406,Central Ethiopia,Silte,Worabe,Bronze,7,2025-06-04
+AGT-0407,Amhara,South Gondar,Woreta,Silver,20,2024-05-10
+AGT-0408,Central Ethiopia,Silte,Tora,Silver,15,2024-10-07
+AGT-0409,South Ethiopia,Gamo,Selamber,Silver,34,2023-03-17
+AGT-0410,South Ethiopia,Gofa,Sawla,Silver,23,2024-02-10
+AGT-0411,Amhara,Awi,Kinjiba,Silver,21,2024-04-10
+AGT-0412,Oromia,West Shewa,Ambo,Bronze,7,2025-06-04
+AGT-0413,Amhara,West Gojjam,Finote Selam,Silver,13,2024-12-06
+AGT-0414,Amhara,Awi,Kinjiba,New,3,2025-10-02
+AGT-0415,Oromia,Arsi,Bekoji,Gold,59,2021-02-25
+AGT-0416,Sidama,Sidama Zone 2,Wendo Genet,Gold,48,2022-01-21
+AGT-0417,South Ethiopia,Gofa,Mucho,Bronze,4,2025-09-02
+AGT-0418,Central Ethiopia,Silte,Unknown,Bronze,7,2025-06-04
+AGT-0419,Tigray,Unknown,Mekelle Zuria,Gold,37,2022-12-17
+AGT-0420,South Ethiopia,Gofa,Mucho,Bronze,10,2025-03-06
+AGT-0421,South Ethiopia,Gamo,Arba Minch,Bronze,10,2025-03-06
+AGT-0422,Sidama,Sidama Zone 2,Aleta Wendo,New,2,2025-11-01
+AGT-0423,Central Ethiopia,Hadiya,Shone,Bronze,10,2025-03-06
+AGT-0424,South Ethiopia,Gamo,Selamber,Gold,46,2022-03-22
+AGT-0425,Tigray,Southern Tigray,Alamata,Bronze,4,2025-09-02
+AGT-0426,South Ethiopia,Gofa,Mucho,New,1,2025-12-01
+AGT-0427,Tigray,Central Tigray,Axum,Bronze,10,2025-03-06
+AGT-0428,Sidama,Sidama Zone 1,Yirgalem,Silver,29,2023-08-14
+AGT-0429,Tigray,Central Tigray,Adwa,New,2,2025-11-01
+AGT-0430,South Ethiopia,Gamo,Selamber,Silver,33,2023-04-16
+AGT-0431,Amhara,West Gojjam,Dangla,New,3,2025-10-02
+AGT-0432,Central Ethiopia,Gurage,Butajira,Bronze,5,2025-08-03
+AGT-0433,Sidama,Sidama Zone 1,Yirgalem,Silver,13,2024-12-06
+AGT-0434,Central Ethiopia,Hadiya,Hosaena,New,3,2025-10-02
+AGT-0435,Sidama,Sidama Zone 2,Bansa,Gold,46,2022-03-22
+AGT-0436,Tigray,Central Tigray,Axum,Gold,46,2022-03-22
+AGT-0437,Central Ethiopia,Silte,Kibet,Silver,12,2025-01-05
+AGT-0438,Central Ethiopia,Silte,Kibet,Gold,45,2022-04-21
+AGT-0440,Sidama,Sidama Zone 1,Hawassa Zuria,New,2,2025-11-01
+AGT-0441,Sidama,Sidama Zone 1,Yirgalem,Bronze,7,2025-06-04
+AGT-0442,Central Ethiopia,Hadiya,Hosaena,Gold,66,2020-07-30
+AGT-0443,Central Ethiopia,Hadiya,Shone,Bronze,9,2025-04-05
+AGT-0444,Tigray,Central Tigray,Adwa,New,1,2025-12-01
+AGT-0445,Central Ethiopia,Gurage,Enemor,Gold,55,2021-06-25
+AGT-0446,Amhara,Awi,Injibara,Gold,61,2020-12-27
+AGT-0447,South Ethiopia,Wolayta,Boditi,Silver,18,2024-07-09
+AGT-0448,Tigray,Central Tigray,Axum,Silver,32,2023-05-16
+AGT-0449,Central Ethiopia,Hadiya,Shone,Silver,28,2023-09-13
+AGT-0450,Sidama,Sidama Zone 1,Yirgalem,Silver,15,2024-10-07
+AGT-0451,Amhara,West Gojjam,Dangla,New,1,2025-12-01
+AGT-0452,Sidama,Sidama Zone 2,Wendo Genet,Bronze,5,2025-08-03
+AGT-0453,South Ethiopia,Gamo,Arba Minch,Silver,35,2023-02-15
+AGT-0454,Oromia,East Shewa,Adama,Bronze,10,2025-03-06
+AGT-0455,Tigray,Central Tigray,Adwa,New,3,2025-10-02
+AGT-0456,South Ethiopia,Gofa,Sawla,Silver,26,2023-11-12
+AGT-0457,Central Ethiopia,Hadiya,Gombora,Silver,15,2024-10-07
+AGT-0458,Amhara,North Shewa,Debre Berhan,Silver,34,2023-03-17
+AGT-0459,South Ethiopia,Gofa,Sawla,New,3,2025-10-02
+AGT-0460,South Ethiopia,Gamo,Arba Minch,New,1,2025-12-01
+AGT-0461,Tigray,Central Tigray,Adwa,Bronze,11,2025-02-04
+AGT-0462,Central Ethiopia,Gurage,Enemor,Bronze,8,2025-05-05
+AGT-0463,South Ethiopia,Wolayta,Boditi,Silver,20,2024-05-10
+AGT-0464,South Ethiopia,Gofa,Mucho,Silver,33,2023-04-16
+AGT-0465,South Ethiopia,Gofa,Mucho,Bronze,9,2025-04-05
+AGT-0466,Tigray,Central Tigray,Abiy Addi,Bronze,5,2025-08-03
+AGT-0467,South Ethiopia,Gamo,Selamber,Silver,16,2024-09-07
+AGT-0468,Sidama,Sidama Zone 1,Yirgalem,Silver,14,2024-11-06
+AGT-0469,Amhara,West Gojjam,Bahir Dar,Silver,28,2023-09-13
+AGT-0470,Oromia,East Shewa,Adama,Silver,26,2023-11-12
+AGT-0471,Sidama,Sidama Zone 2,Wendo Genet,Silver,28,2023-09-13
+AGT-0472,Tigray,Unknown,Alamata,New,2,2025-11-01
+AGT-0473,South Ethiopia,Gamo,Arba Minch,Bronze,8,2025-05-05
+AGT-0474,South Ethiopia,Wolayta,Boditi,Bronze,9,2025-04-05
+AGT-0475,Amhara,North Shewa,Ataye,Silver,14,2024-11-06
+AGT-0476,Oromia,West Shewa,Holeta,Bronze,4,2025-09-02
+AGT-0477,Central Ethiopia,Silte,Kibet,Silver,33,2023-04-16
+AGT-0478,South Ethiopia,Gofa,Bulki,Silver,24,2024-01-11
+AGT-0479,South Ethiopia,Gamo,Selamber,Silver,13,2024-12-06
+AGT-0480,Tigray,Central Tigray,Abiy Addi,Silver,14,2024-11-06
+AGT-0481,Sidama,Sidama Zone 2,Bansa,Silver,28,2023-09-13
+AGT-0482,Amhara,South Gondar,Unknown,Silver,15,2024-10-07
+AGT-0483,Tigray,Southern Tigray,Alamata,Silver,22,2024-03-11
+AGT-0484,Amhara,North Shewa,Debre Berhan,Bronze,6,2025-07-04
+AGT-0485,Central Ethiopia,Unknown,Enemor,Silver,29,2023-08-14
+AGT-0486,Oromia,Jimma,Jimma Town,Silver,120,2016-02-22
+AGT-0487,South Ethiopia,Wolayta,Boditi,Bronze,8,2025-05-05
+AGT-0488,Sidama,Sidama Zone 2,Aleta Wendo,Bronze,4,2025-09-02
+AGT-0489,Tigray,Central Tigray,Adwa,New,1,2025-12-01
+AGT-0490,Tigray,Central Tigray,Axum,Silver,35,2023-02-15
+AGT-0491,South Ethiopia,Gamo,Arba Minch,Silver,17,2024-08-08
+AGT-0492,Amhara,North Shewa,Ataye,Bronze,10,2025-03-06
+AGT-0493,Oromia,East Shewa,Bishoftu,Bronze,6,2025-07-04
+AGT-0494,Oromia,Jimma,Unknown,Silver,17,2024-08-08
+AGT-0495,Central Ethiopia,Gurage,Enemor,Silver,28,2023-09-13
+AGT-0496,Oromia,Jimma,Agaro,Silver,15,2024-10-07
+AGT-0497,Sidama,Sidama Zone 2,Aleta Wendo,Bronze,8,2025-05-05
+AGT-0498,Central Ethiopia,Gurage,Enemor,Bronze,9,2025-04-05
+AGT-0499,South Ethiopia,Gofa,Bulki,New,1,2025-12-01
+AGT-0500,Amhara,South Gondar,Woreta,New,1,2025-12-01

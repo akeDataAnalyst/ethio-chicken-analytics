@@ -1,0 +1,13 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python compiled files & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit local configuration
+.streamlit/

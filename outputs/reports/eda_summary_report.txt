@@ -1,0 +1,32 @@
+ETHIOCHICKEN ANALYTICS PLATFORM - EDA SUMMARY REPORT
+========================================================
+
+1. OVERALL OPERATIONAL METRICS
+--------------------------------------------------------
+- Total Analyzed Orders / Cycles: 4,196
+- Total Volume Ordered: 1,164,400 chicks
+- Average Chick Mortality Rate: 6.65%
+- Average Vaccination Compliance: 85.44%
+- Average Days Sales Outstanding (DSO): 14.7 days
+
+2. MORTALITY RATE BY AGENT TIER
+--------------------------------------------------------
+- Bronze: 6.26%
+- Gold: 3.47%
+- New: 12.26%
+- Silver: 6.32%
+
+3. MORTALITY RATE BY REGION
+--------------------------------------------------------
+- Amhara: 6.87%
+- Central Ethiopia: 6.96%
+- Oromia: 6.86%
+- Sidama: 6.34%
+- South Ethiopia: 6.23%
+- Tigray: 6.74%
+
+4. STRATEGIC RECOMMENDATIONS & NEXT STEPS
+--------------------------------------------------------
+- New agents exhibit elevated mortality rates, underscoring the critical need for prioritized brooding mentorship during onboarding.
+- A strong inverse relationship is confirmed between vaccination compliance and mortality outcomes, validating the urgency of automated compliance tracking.
+- Elevated Days Sales Outstanding (DSO) in specific regions flags potential credit risk, requiring tighter payment terms or integrated micro-finance workflows.
